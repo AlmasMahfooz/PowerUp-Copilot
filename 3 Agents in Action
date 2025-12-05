@@ -1,3 +1,14 @@
+**Conversational agent 
+
+A conversational agent is a computer program designed to interact with humans using natural language (spoken or written). It simulates conversation, answers questions,
+and helps users accomplish tasks. You can think of it as a "virtual assistant" that understands and responds like a human in dialogue.
+🔑 Key Features
+Natural language understanding (NLU): It interprets what you say or type.
+Dialogue management: It decides how to respond based on context.
+Natural language generation (NLG): It produces human-like replies.
+Task execution: It can perform actions (like booking tickets, searching info, or controlling devices).
+
+
 Intent (consist of Topics and Priority)
 Utterances:Utterance is anything that end user type to the agent via the conversation chat.
 > To suggest things to the end user is done by Quick replies 
@@ -10,9 +21,15 @@ Utterances:Utterance is anything that end user type to the agent via the convers
 > custom search instance can also have list of blocked sites 
 > configuration ID is needed to link Bing Custom search instance with topic
 
+**
+
+
+
+
+
 Orchestration.
 
-Conversational agent 
+
 traditional chatbot scenarios fall short and how agents are changing the game
 Components and tools of a modern agent
 Entities, Formulas and variables
