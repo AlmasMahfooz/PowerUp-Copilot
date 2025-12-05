@@ -2,6 +2,11 @@ Intent (consist of Topics and Priority)
 Utterances:Utterance is anything that end user type to the agent via the conversation chat.
 > To suggest things to the end user is done by Quick replies 
 > If required Topics is not found it will switch to system topic conversational boosting.
+> Create Generative Answers Node 
+> specific instructions can be given to the prompt in the topic to do additional stuff
+> for Public website in knowledge more than two level of web site is not allowed.
+> One instance per topic work
+> custom search instance have combination of web pages to cover knowledge for topic.
 
 
 Orchestration.
@@ -23,3 +28,4 @@ Boosting Agents with AI Builder GPT Prompt
 Working with Conditions
 embedded Copilot for Building Topics
 
+Bing Custom Search:
