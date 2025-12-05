@@ -16,6 +16,9 @@ Utterances:Utterance is anything that end user type to the agent via the convers
 > Create Generative Answers Node 
 > specific instructions can be given to the prompt in the topic to do additional stuff
 > for Public website in knowledge more than two level of web site is not allowed.
+
+Bing Custom Search
+---------------------
 > One instance per topic work
 > custom search instance have combination of web pages to cover knowledge for topic.
 > custom search instance can also have list of blocked sites 
@@ -23,11 +26,7 @@ Utterances:Utterance is anything that end user type to the agent via the convers
 
 **
 
-
-
-
-
-Orchestration.
+Orchestration??
 
 
 traditional chatbot scenarios fall short and how agents are changing the game
@@ -46,4 +45,4 @@ Boosting Agents with AI Builder GPT Prompt
 Working with Conditions
 embedded Copilot for Building Topics
 
-Bing Custom Search:
+:
