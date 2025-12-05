@@ -1,7 +1,10 @@
-Intent
+Intent (consist of Topics and Priority)
 Utterances:Utterance is anything that end user type to the agent via the conversation chat.
+> To suggest things to the end user is done by Quick replies 
+> If required Topics is not found it will switch to system topic conversational boosting.
 
 
+Orchestration.
 
 Conversational agent 
 traditional chatbot scenarios fall short and how agents are changing the game
