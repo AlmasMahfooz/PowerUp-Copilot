@@ -7,7 +7,8 @@ Utterances:Utterance is anything that end user type to the agent via the convers
 > for Public website in knowledge more than two level of web site is not allowed.
 > One instance per topic work
 > custom search instance have combination of web pages to cover knowledge for topic.
-
+> custom search instance can also have list of blocked sites 
+> configuration ID is needed to link Bing Custom search instance with topic
 
 Orchestration.
 
