@@ -1,2 +1,2 @@
 # PowerUp-Copilot
-Build Intelligent Agents with Copilot Studio
+Copilot and  Copilot Studio
