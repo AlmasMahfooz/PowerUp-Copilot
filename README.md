@@ -2,6 +2,9 @@
 Copilot and  Copilot Studio
 
 
+AI Models are the brain: AI Models are specialized algorithms trained to perform specific, often isolated cognitive tasks. They do not have memory, do not hold conversations on their own, and cannot take direct actions
+AI Agents are the Digital Coworker:Agents are fully configured AI systems equipped with context, memory, and the ability to execute workflows and take actions on your behalf. Think of them as dedicated apps or "digital coworkers".
+
 Copilot Types:
 
 1. Embedded: integrated within Microsoft products i.e Excel, assist for the product so it is product focused 
