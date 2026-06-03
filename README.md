@@ -11,3 +11,7 @@ Copilot Types:
 2. Solutions Accelerators: as name suggested AI accelerating solutions provided by Microsoft i.e Dynamics for Sales, Dynamics for Service, grounded by Microsoft Graph. NO UI change.
    
 4. Custom : are done by Copilot Studio, agents can be hosted in various kind of channel.custom knowledge.
+
+
+
+----- https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/create-component
